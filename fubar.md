@@ -26,3 +26,8 @@ Ted: whaaat???
 
 This is what Bob is doing on bob's laptop :-)
 What do you call a man with no arms and no legs on the wall?
+
+
+
+This is Bob and Carol on Carol's compuer working on feature 3.
+What do you call a man with no arms and no legs in the ocean?
