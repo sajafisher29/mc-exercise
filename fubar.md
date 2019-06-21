@@ -9,3 +9,11 @@ function tooCool = "Push it, push it good" + insertLaughHere;
 On top of spagettiiiiiiiii, all covered in worms, I lost my poor meatball, it had too many germs
 
 Do, Re, Mi, Fa, So, La, Ti, Do! Did I even remember that correctly? I suck at music.
+
+Hello darkness my old friend 
+
+NaNaNaNaNa Bat featureeee
+
+sup nerds 
+
+that's fine
