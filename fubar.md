@@ -1,3 +1,6 @@
+Four score and seven years ago our fathers brought forth on this continent a new nation conceived in liberty.
+I go out walkin aftre midnight just like we used to. I'm always waking after midnight, searching for you.
+
 Hi there, this is what happened when Alice and Ted pair-programmed. Push it. 
 
 var interface = ["a user interface is like a joke.", "if you have to explain it, its not that good"];
