@@ -24,3 +24,5 @@ that's fine
 
 Ted: whaaat???
 
+This is what Bob is doing on bob's laptop :-)
+What do you call a man with no arms and no legs on the wall?
