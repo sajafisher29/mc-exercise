@@ -24,5 +24,43 @@ that's fine
 
 Ted: whaaat???
 
+<<<<<<< Bob-is-bobbing
 I would like to apologize for my lack of sensitivity in previous commits. Please forgive me seven times seventy times. 
 Love Boob xoxoxoxoxoxoxo
+=======
+Taters... not my nephew Taters but actual taters, like potatos
+Hashbrowns
+French fries
+Tater tots
+Mashed
+Baked
+Au gratin
+Waffle fries
+Hassleback
+Spiraled
+Boiled -> do better
+if boiled {
+  alert "gross"
+} && {
+"Do better"
+}
+Roasted
+Grilled
+
+
+
+
+------ boob and carol's feature 4 ------
+boob didn't like that her name was misspelled, so she contracted with the lawfirm of tate and bailey. they said they'd take on her case and that she'd have to pay them in tater tots, but only if they weren't made out of tate.
+
+Hello darkness my old friend... Pushitrealgood.
+drowning? 
+
+
+
+we are ted and alice and we are here to party 
+
+WHo want spie 
+
+change changes 
+>>>>>>> master
