@@ -10,6 +10,7 @@ On top of spagettiiiiiiiii, all covered in worms, I lost my poor meatball, it ha
 
 Do, Re, Mi, Fa, So, La, Ti, Do! Did I even remember that correctly? I suck at music.
 
+This is what ted and alice did on Ted's computer when working on the 1st feature
 Hello darkness my old friend 
 
 NaNaNaNaNa Bat featureeee
@@ -17,3 +18,6 @@ NaNaNaNaNa Bat featureeee
 sup nerds 
 
 that's fine
+
+Ted: whaaat???
+
