@@ -24,3 +24,21 @@ that's fine
 
 Ted: whaaat???
 
+Taters... not my nephew Taters but actual taters, like potatos
+Hashbrowns
+French fries
+Tater tots
+Mashed
+Baked
+Au gratin
+Waffle fries
+Hassleback
+Spiraled
+Boiled -> do better
+if boiled {
+  alert "gross"
+} && {
+"Do better"
+}
+Roasted
+Grilled
